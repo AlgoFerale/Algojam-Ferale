@@ -21,7 +21,7 @@ The purpose of this workshop is to explore feral algorithmic agencies by jamming
 
 ## Why?
 
-> "I use technology in order to hate it more properly."  * Nam June Paik*
+> "I use technology in order to hate it more properly."  *Nam June Paik*
 
 AI creatures embed politics that are sexist, racist, ableist and colonialist. This workshop is an attempt to imagine how these algorithms could be different by facilitating a playful context for contestation and critique. A context where the socio-cultural reality of these algorithmic creatures can be, not reflected, but diffracted, hence making possible the production of low theory as a counterhegemonic form of theorizing alternatives within an undisciplined zone of knowledge production.
 
