@@ -8,7 +8,7 @@ Not only organic creatures but also synthetic entities can escape human schemes 
 
 Algorithmic creatures have crawled into humans lives for many decades but it is only recently, with the advent of so called AI or Machine Learning, that they are able to organize human lives in profound and often unforeseeable ways: from curating cultural content at doom-scrolling speeds or recommending books, tunes and lovers to deciding on insurances, mortgages, jobs and paroles. These AI creatures mostly operate in the shadow of those they affect most, automating (often biased) possibilities with impunity.
 
-Prophetic discourses around AI flourish amidst a generalized ignorance of how these creatures accomplish their feats. Their black-boxed bodies reveal little on how they digest data to produce human looking outcomes. Outcomes that seem to satisfy beyond expectations any and all pragmatic goals they were born to fulfill. However, as self-driving car algorithmic creatures never tire to remind us, technologies need to be scrutinized not only for their intended purposes but also for what lies outside of human control: the unintended consequences, the waste materials, the glitches and the fails. Algorithmic creatures might become feral too.
+Prophetic discourses around AI flourish amidst a generalized ignorance of how these creatures accomplish their feats. Their black-boxed bodies reveal little on how they digest data to produce human looking outcomes. Outcomes that seem to satisfy beyond expectations any and all pragmatic goals they were born to fulfill. However, as self-driving car algorithmic creatures never tire to remind us, technologies need to be scrutinized not only for their intended purposes but also for what lies outside of human control: the unintended consequences, the waste materials, the glitches and the fails. Algorithmic creatures can become feral too.
 
 We will be building on the work on Feral Data by the Open Forest Collective. OF has been engaging with eco-social sustainability through “experimental, situated, embodied, multispecies - or what we call ’feral’ - creative collaborations… feral as a quality to appraise open-ended, spontaneous, unexpected, more-than-human encounters that unfold beyond the bounds of human control, embracing uncertainty and surprise as both generative and critical elements”. (Dolejsova 2023). ‘Feral’ as a concept can be many things depending on one’s positionality and interests. Similarly ‘Feral Data’ is “‘messy’, eclectic, colourful, varied or ambiguous.”(Ibid). 
 
@@ -48,7 +48,7 @@ The focus will be on curiosity, process, frictions and, of course, very celebrat
 
 The workshop today takes the form of a jamming session structured in three acts: 
 
-### Warm-up
+### Introductions
 
 Bring an algorithmic creature to introduce yourself (+ your work & interests) with it.
 
