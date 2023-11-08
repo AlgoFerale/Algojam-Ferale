@@ -15,6 +15,7 @@ We will be building on the work on Feral Data by the Open Forest Collective. OF 
 The purpose of this workshop is to explore feral algorithmic agencies by jamming(-with) algorithmic creatures. In particular, we will be engaging with questions such as: 
 
 - What can a feral algorithm be, or even more interestingly, do?
+- Does it make sense to refer to algorithms as creatures rather than tools?
 - What can we learn from feral algorithmic creatures?
 - What can we learn from feeding algorithmic creatures not prompts, but feral prompts?
 - How are algorithmic creatures different from other (animal, vegetal, imaginary) creatures?
@@ -84,6 +85,7 @@ Please, try to document your creative exploration by uploading the feral data an
 We will get together to discuss and learn from each other experiences of jamming with algorithmic creatures and the contexts where we find them. Some of the questions we will be exploring are:
 
 - What can a feral algorithm be, or even more interestingly, do?
+- Does it make sense to refer to algorithms as creatures rather than tools?
 - What can we learn from feral algorithmic creatures?
 - What can we learn from feeding algorithmic creatures not prompts, but feral prompts?
 - How are algorithmic creatures different from other (animal, vegetal, imaginary) creatures?
