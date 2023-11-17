@@ -14,10 +14,10 @@ We will be building on the work on Feral Data by the Open Forest Collective. OF 
 
 The purpose of this workshop is to explore feral algorithmic agencies by jamming(-with) algorithmic creatures. In particular, we will be engaging with questions such as: 
 
-- What can a feral algorithm be, or even more interestingly, do?
+- What can a feral algorithm be and do?
 - Does it make sense to refer to algorithms as creatures rather than tools?
 - What can we learn from feral algorithmic creatures?
-- What can we learn from feeding algorithmic creatures not prompts, but feral prompts?
+- What can we learn from feeding algorithmic creatures feral prompts?
 - How are algorithmic creatures different from other (animal, vegetal, imaginary) creatures?
 
 ## Why?
@@ -31,7 +31,7 @@ In *The Promises of Monsters* (1992) Haraway sets diffraction as a counterpoint
 By creatively engaging with these algorithmic creatures, we will explore how our interactions with them are a form of interacting with and between us. Nuanced, critical, playful and perhaps empathic ways of relating to them translate in different ways of relating to ourselves and others. At the same time, we need to be mindful of mythologies of relating to AIs as “life forms” as they obscure human accountability. After all, they are usually and intentionally designed within profit oriented corporate contexts as products and hence, companies are rightfully expected to bear the responsibility for any ill functioning. Jamming (-with) algorithmic creatures might help us challenge the narratives established, more or less explicitly, by AI companies and also explore questions such as: 
 
 - How does one recognize the labor of the people that made the works that went into the dataset of an algorithmic creature? Is it even ethical to engage with them?
-- What if a dataset was not a massive and irresponsible scraping of content but rather a precious object assembled with utmost care because it comes from people’s work and will deeply influence people’s lives?
+- What if a dataset was not a massive and irresponsible scraping of content but rather a precious object assembled with care because it is a consequence of people’s labor and will deeply influence people’s lives?
 - What if datasets had an expiry date?
 - How would AI developed on principles of listening instead of control, situatedness instead of objectivity or equity instead of profit might feel like?
 
@@ -41,9 +41,9 @@ By creatively engaging with these algorithmic creatures, we will explore how our
 
 We will attempt to deliberately subvert, confuse, recontextualize or mock what AI algorithmic creatures were designed to produce as an output by jamming(-with)them. Jamming understood as both, improvising as a form of emergent relationality that results in unexpected and surprising outcomes, and also as making something unable to work by seizing it up or making it unintelligible. For this creative experiment, we will jam with feral data as instrument, after all, both can be seen as a relation between creatures and their context:
 
-knowledge/info/experience → **feral data** → **feral prompt → feral diffractions →** info/knowledge
+Personal knowledge/info/experience → **(feral)data** → **(feral)prompt → (feral)diffractions →** +++info/knowledge
 
-The focus will be on curiosity, process, frictions and, of course, very celebratory forms of failure. A feral creature is only so in relation to the context where it is situated and value-laden assessments - such as “good or bad” or whether a feral creature is a pest or not are relative and problematic, revealing the position from which the feral creature is evaluated. While the guts of these algorithmic creatures are unpredictable black-boxes, countless hours of work have been spent on ensuring that their behavior follows the (normative) manual. However, a jam is creative expression in relation without a goal or pre-scripted direction. It is both process and destination, insight and exploration so possibilities to turn algorithmic creatures feral are endless if they are fed feral prompts and their outcomes repositioned within the situated context and history of a creative workshop participant. The agency of algorithms in creative ai is coupled with the data they were trained on -  trained on text+img? they can generate text/img - How feral data is made legible to these creatures as feral prompts will greatly influence the feral diffractions they produce with it and the rhythms at which they do so. After all, jamming is also about aligning temporalities with other creatures and creating openings for expressive outcomes. This is no different with algorithmic creatures that were intentionally designed with particular sensitivities to time (TikTok has a different pacing than Instagram, for example). 
+The focus will be on curiosity, process, frictions and, of course, very celebratory forms of failure. A feral creature is only so in relation to the context where it is situated and value-laden assessments - such as “good or bad” are relative and problematic, revealing the position from which the feral creature is examined. While the guts of these algorithmic creatures are unpredictable black-boxes, countless hours of work have been spent on ensuring that their behavior follows the (normative) manual. However, a jam is creative expression in relation without a goal or pre-scripted direction. It is both process and destination, insight and exploration so how data is made legible to these creatures as feral prompts will greatly influence the feral diffractions they produce with it and the rhythms at which they do so. After all, jamming is also about aligning temporalities with other creatures and creating openings for expressive outcomes. This is no different with algorithmic creatures that were intentionally designed with particular sensitivities to time (TikTok has a different pacing than Instagram, for example). 
 
 ## Workshop Structure
 
@@ -51,7 +51,7 @@ The workshop today takes the form of a jamming session structured in three acts:
 
 ### Introductions
 
-Bring an algorithmic creature to introduce yourself (+ your work & interests) with it.
+Introduce yourself and an algorithmic creature of your choice.
 
 ### Jamming with Feral Algorithmic Creatures (FACs)
 
@@ -60,15 +60,15 @@ Please, first sign up to github with this credentials:
 - user: algoferale
 - passw: algoFAC0
 
-Now proceed to the ecosystem where a plethora of algorithmic creatures await your arrival:
+Now proceed to the ecosystem where many of algorithmic creatures await your arrival:
 
 - https://replicate.com/explore
 
 We invite you to interpret and adapt this process:
 
-Situaded knowledge/info/experience → **feral data** → **feral prompt → feral diffractions →** info/knowledge
+Personal knowledge/info/experience → **(feral)data** → **(feral)prompt → (feral)diffractions →** +++info/knowledge
 
-Use your situated experience and personal history as much as possible. Feral data can be anything - a story, a poem, a dream, etc. based on your own life experiences. Algorithmic creatures were born out of statistical generalizations so they won’t see you coming. How you translate your feral data into a feral prompt is very much up to you and will greatly affect the kind of diffractions produced by the algorithmic creature. 
+(Feral) data can be anything - a story, a poem, a dream, etc. based on your own life experiences. Algorithmic creatures were born out of statistical generalizations so they won’t see you coming. How you translate your feral data into a feral prompt is very much up to you and will greatly affect the kind of diffractions produced by the algorithmic creature. 
 
  Some ideas to try: 
 
@@ -78,11 +78,11 @@ Use your situated experience and personal history as much as possible. Feral dat
 - Get surreal and absurd.
 - Twist the instruction manual beyond recognition.
 
-Please, try to document your creative exploration by uploading the feral data and the feral prompts you are feeding the creatures in the folder “Feral Data” and “Feral Prompts” in github and the outcomes you are gathering in “Feral Diffractions”. This will be very helpful for our discussion later on.
+Please, try to document your creative exploration for our discussion later on.
 
 ### Sharing Feral Diffractions
 
-We will get together to discuss and learn from each other experiences of jamming with algorithmic creatures and the contexts where we find them. Some of the questions we will be exploring are:
+We will get together to discuss each other experiences of jamming with algorithmic creatures and the contexts where we find them. Some of the questions we will be exploring are:
 
 - What can a feral algorithm be, or even more interestingly, do?
 - Does it make sense to refer to algorithms as creatures rather than tools?
