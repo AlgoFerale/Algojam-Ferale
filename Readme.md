@@ -58,7 +58,7 @@ Introduce yourself and an algorithmic creature of your choice.
 Please, first sign up to github with this credentials: 
 
 - user: algoferale
-- passw: algoFAC0
+- passw: Fulk0rn123
 
 Now proceed to the ecosystem where many of algorithmic creatures await your arrival:
 
